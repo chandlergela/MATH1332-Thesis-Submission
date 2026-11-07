@@ -1,0 +1,19 @@
+# Downloaded data and prepared dataset
+/activity_data.csv
+/daily_data.csv
+/athletes.csv
+/athlete_day_final.csv
+/excel_athlete_day_final.xlsx
+
+# Generated analysis outputs
+/output/
+*.keras
+*.joblib
+
+# Local environments and caches
+/.venv/
+.ipynb_checkpoints/
+__pycache__/
+.Rhistory
+.RData
+.Rproj.user/
